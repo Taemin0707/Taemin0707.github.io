@@ -14,26 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
+title: Creative TiMe
+email: choitm0707@kist.re.kr
 description: "Your new default Jekyll theme"
 baseurl: "/"  # the subpath of your site, e.g. /blog
 url: "https://taemin0707.github.io/"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+  name: Taemin Choi
+  twitter: Nope
+  picture: /assets/images/author.jpg
+twitter_username: Taemin0707
+github_username: Taemin0707
+logo: /assets/icons/logo.svg
 search: true
 search_full_content: true
-search_provider: algolia
-algolia:
-  application_id: QB6HVGBSBA
-  index_name: basically-basic
-  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
-  powered_by: # true (default), false
+search_provider: lunr
+
+disqus:
+  shortname: Creative TiMe
 
 # Liquid
 liquid:
