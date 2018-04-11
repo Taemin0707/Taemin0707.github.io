@@ -31,7 +31,7 @@ search_full_content: true
 search_provider: lunr
 
 disqus:
-  shortname: Creative TiMe
+  shortname: creative-time
 
 # Liquid
 liquid:
