@@ -1,6 +1,7 @@
 ---
-title: Post Archive
+title: Develog
 layout: posts
 permalink: /posts/
 entries_layout: list
 ---
+

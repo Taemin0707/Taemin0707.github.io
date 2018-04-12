@@ -22,7 +22,8 @@ url: "https://taemin0707.github.io/"  # the base hostname & protocol for your si
 author:
   name: Taemin Choi
   twitter: Nope
-  picture: /assets/images/author.jpg
+  picture: 
+youtube_username: Taemin0707
 twitter_username: Taemin0707
 github_username: Taemin0707
 logo: /assets/icons/logo.svg
@@ -66,7 +67,11 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  recipes:
+  lifestory:
+    output: true
+    permalink: /:collection/:path/
+
+  ideas:
     output: true
     permalink: /:collection/:path/
 
@@ -81,8 +86,15 @@ defaults:
       read_time: true
   # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_lifestory"
+      type: lifestory
+    values:
+      layout: post
+      read_time: true
+  # _ideas
+  - scope:
+      path: "_ideas"
+      type: ideas
     values:
       layout: post
       read_time: true

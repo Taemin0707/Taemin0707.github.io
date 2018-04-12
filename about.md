@@ -3,12 +3,21 @@ title: "About"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+![test](./assets/images/author.jpg){: width="400" height="600"}
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+**M.S. Student**<br>Korea University<br>Mechanical Engineering<br>Korea Institute of Science and Technology<br>Center for Robotics Research
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+### Contact
+
+Email : choitm0707@kist.re.kr<br>Office :  L8401, International Cooperation Building, KIST(Korea Institute of Science and Technology)<br>Phone : +82-2-958-6815
+
+### Research Interests
+
+- Semantic Mapping
+- [Social Navigation](https://github.com/Taemin0707/social_navigation)
+
+### Education
+
+- B.S. in Mechanical Engineering and Global Technology Management(Dual Major) at Seoul National University of Science and Technology(2018)
+
+### Publications
